@@ -1,5 +1,5 @@
 ## Video-Touch
-![Image](https://drive.google.com/file/d/1HCPMbmNAVTexMZct5TJ1wbJekKFL-PNY/view)
+![Image](https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif)
 
 ### Paper
 **ZoomTouch: Multi-User Remote Robot Control in Zoom by DNN-based Gesture Recognition**
