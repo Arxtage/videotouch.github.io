@@ -2,6 +2,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: ["Video-Touch: Multi-User Remote Robot Control by DNN-based Gesture Recognition"]
+title: ["Video-Touch"]
 
 theme: jekyll-theme-cayman
