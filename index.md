@@ -1,4 +1,4 @@
-## Video-Touch:
+## Video-Touch
 
 You can use the [editor on GitHub](https://github.com/Arxtage/videotouch.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
