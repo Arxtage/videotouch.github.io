@@ -1,7 +1,9 @@
 ## Video-Touch
 <p align="center">
-![Image](https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif?raw=true)
+  <img src="https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif?raw=true">
 </p>
+
+![Image](https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif?raw=true)
 
 
 ### Paper
