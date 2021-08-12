@@ -7,8 +7,7 @@
 @article{zakharkin2020zoomtouch,
   title={ZoomTouch: Multi-User Remote Robot Control in Zoom by DNN-based Gesture Recognition},
   author={Zakharkin, Ilya and Tsaturyan, Arman and Altamirano-Cabrera, Miguel and Tirado, Jonathan and Tsetserukou, Dzmitry},
-  journal={arXiv e-prints},
-  pages={arXiv--2011},
+  booktitle = {SIGGRAPH Asia 2020 Emerging Technologies},
   year={2020}
 }
 ```
