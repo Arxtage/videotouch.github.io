@@ -3,9 +3,6 @@
   <img src="https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif?raw=true">
 </p>
 
-![Image](https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif?raw=true)
-
-
 ### Paper
 **ZoomTouch: Multi-User Remote Robot Control in Zoom by DNN-based Gesture Recognition**<br/>
 Ilya Zakharkin, Arman Tsaturyan, Miguel Altamirano Cabrera, Jonathan Tirado and Dzmitry Tsetserukou<br/>
