@@ -1,5 +1,19 @@
 ## Video-Touch
 
+
+
+### Paper
+```markdown
+@article{zakharkin2020zoomtouch,
+  title={ZoomTouch: Multi-User Remote Robot Control in Zoom by DNN-based Gesture Recognition},
+  author={Zakharkin, Ilya and Tsaturyan, Arman and Altamirano-Cabrera, Miguel and Tirado, Jonathan and Tsetserukou, Dzmitry},
+  journal={arXiv e-prints},
+  pages={arXiv--2011},
+  year={2020}
+}
+```
+
+
 You can use the [editor on GitHub](https://github.com/Arxtage/videotouch.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
