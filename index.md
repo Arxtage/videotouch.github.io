@@ -2,9 +2,9 @@
 ![Image](https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif)
 
 ### Paper
-**ZoomTouch: Multi-User Remote Robot Control in Zoom by DNN-based Gesture Recognition**&nbsp;
-Ilya Zakharkin, Arman Tsaturyan, Miguel Altamirano Cabrera, Jonathan Tirado and Dzmitry Tsetserukou&nbsp;
-in SIGGRAPH Asia 2020 Emerging Technologies&nbsp;
+**ZoomTouch: Multi-User Remote Robot Control in Zoom by DNN-based Gesture Recognition** &nbsp;
+Ilya Zakharkin, Arman Tsaturyan, Miguel Altamirano Cabrera, Jonathan Tirado and Dzmitry Tsetserukou &nbsp;
+in SIGGRAPH Asia 2020 Emerging Technologies &nbsp;
 [arXiv](https://arxiv.org/abs/2011.03845)
 
 ### BibTeX
