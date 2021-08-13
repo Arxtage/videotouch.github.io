@@ -20,7 +20,7 @@ Our system looks as follows:
 3. The recognition module reads user movements and gestures with the help of [MediaPipe](https://mediapipe.dev/) and sends it to the next module via [ZeroMQ](https://zeromq.org/);
 4. The robotic arm and its gripper are being controlled from Python, given the motion capture data.
 
-[![IMAGE_ALT](https://drive.google.com/file/d/1jF9ZxQBzWRWU1dUvkHBHnZyHkdxxHwXR/view)
+<img width="1566" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129399919-f0625946-4011-481f-b057-bed32d154743.png">
 
 
 ### Authors
