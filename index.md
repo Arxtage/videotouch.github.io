@@ -23,7 +23,7 @@ Our system looks as follows:
 3. The recognition module reads user movements and gestures with the help of [MediaPipe](https://mediapipe.dev/) and sends it to the next module via [ZeroMQ](https://zeromq.org/);
 4. The robotic arm and its gripper are being controlled from Python, given the motion capture data.
 
-<img width="1566" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129403360-d7b8e241-338f-4eb4-8ead-b7d7162ef4d7.PNG">
+<img width="800" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129403360-d7b8e241-338f-4eb4-8ead-b7d7162ef4d7.PNG">
 
 ### Live Demos
 
@@ -32,19 +32,25 @@ This project has had a great reception not only in  ​robotics but also in othe
 **1. Siggraph Asia 2020**<br/>
 <br/>
 <br/>
+<p align="center">
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129399087-6a58ddb3-f346-44d2-9af7-50bf4dd123db.PNG)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
+  </p>
 <br/>
 <br/>
-**1. Russia 24 TV Channel**<br/>
+**2. Russia 24 TV Channel**<br/>
 <br/>
 <br/>
+<p align="center">
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129400595-b11420fd-299f-40ae-a092-bba288d51e55.PNG)](https://www.youtube.com/watch?v=5p9MlKYu3RA&t=488s)
+  </p>
 <br/>
 <br/>
-**2. PANGARDENIA ARS ELECTRONICA 2020** Festival for Art, Technology & Society Saint-Petersburg<br/>
+**3. PANGARDENIA ARS ELECTRONICA 2020** Festival for Art, Technology & Society Saint-Petersburg<br/>
 <br/>
 <br/>
+<p align="center">
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129401928-bd267ca4-61bf-43da-9db4-197ed88dde9a.PNG)](https://youtu.be/i6dYyRQg-iM?t=4813)
+ </p>
 
 ### Authors
 - Ilya Zakharkin, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
