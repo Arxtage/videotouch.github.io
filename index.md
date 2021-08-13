@@ -34,7 +34,7 @@ This project has had a great reception not only in  ​robotics but also in othe
 <br/>
 <p align="center">
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129399087-6a58ddb3-f346-44d2-9af7-50bf4dd123db.PNG)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
-  </p>
+</p>
 <br/>
 <br/>
 **2. Russia 24 TV Channel**<br/>
@@ -42,7 +42,7 @@ This project has had a great reception not only in  ​robotics but also in othe
 <br/>
 <p align="center">
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129400595-b11420fd-299f-40ae-a092-bba288d51e55.PNG)](https://www.youtube.com/watch?v=5p9MlKYu3RA&t=488s)
-  </p>
+</p>
 <br/>
 <br/>
 **3. PANGARDENIA ARS ELECTRONICA 2020** Festival for Art, Technology & Society Saint-Petersburg<br/>
@@ -50,7 +50,7 @@ This project has had a great reception not only in  ​robotics but also in othe
 <br/>
 <p align="center">
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129401928-bd267ca4-61bf-43da-9db4-197ed88dde9a.PNG)](https://youtu.be/i6dYyRQg-iM?t=4813)
- </p>
+</p>
 
 ### Authors
 - Ilya Zakharkin, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
