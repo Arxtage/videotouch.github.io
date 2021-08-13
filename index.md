@@ -32,18 +32,15 @@ This project has had a great reception not only in  ​robotics but also in othe
 
 **1. Siggraph Asia 2020**<br/>
 <br/>
-<br/>
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129399087-6a58ddb3-f346-44d2-9af7-50bf4dd123db.PNG)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
 <br/>
 <br/>
 **2. Russia 24 TV Channel**<br/>
 <br/>
-<br/>
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129400595-b11420fd-299f-40ae-a092-bba288d51e55.PNG)](https://www.youtube.com/watch?v=5p9MlKYu3RA&t=488s)
 <br/>
 <br/>
 **3. PANGARDENIA ARS ELECTRONICA 2020** Festival for Art, Technology & Society Saint-Petersburg<br/>
-<br/>
 <br/>
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129401928-bd267ca4-61bf-43da-9db4-197ed88dde9a.PNG)](https://youtu.be/i6dYyRQg-iM?t=4813)
 
@@ -73,6 +70,10 @@ in SIGGRAPH Asia 2020 Emerging Technologies<br/>
   year={2020}
 }
 ```
+### Support or Contact
+
+Skolkovo Institute of Science and Technology,  Bolshoy Boulevard 30, bld. 1, Moscow, Russia 121205 <br/>
+
 
 
 You can use the [editor on GitHub](https://github.com/Arxtage/videotouch.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -107,6 +108,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arxtage/videotouch.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
