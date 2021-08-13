@@ -8,7 +8,15 @@
 
 We present Video-Touch, a breakthrough technology for multi-user and real-time control of robot by DNN-based gesture recognition. The users can have a video conferencing in a digital world and at the same time to perform dexterous manipulations with tangible objects by remote robot. As the scenario, we proposed the remote robotic COVID-19 test Laboratory to substitute medical assistant working in protective gear in close proximity with infected cells and to considerably reduce the time to receive the test results. The proposed technology suggests a new type of reality, where multi-users can jointly interact with remote object (e.g. make a new building design, joint cooking in robotic kitchen, etc), and discuss/modify the results at the same time.
 
-[![IMAGE_ALT](https://img.youtube.com/vi/F4X4jJwDBy4/1.jpg)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
+[![IMAGE_ALT](https://img.youtube.com/vi/F4X4jJwDBy4/default.jpg)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
+
+
+### Authors
+- Ilya Zakharkin, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
+- Arman Tsaturyan, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
+- Miguel Altamirano Cabrera, Skolkovo Institute of Science and Technology, Russia
+- Jonathan Tirado, Skolkovo Institute of Science and Technology, Russia
+- Dzmitry Tsetserukou, Skolkovo Institute of Science and Technology, Russia
 
 
 ### Citation
@@ -17,6 +25,8 @@ Ilya Zakharkin, Arman Tsaturyan, Miguel Altamirano Cabrera, Jonathan Tirado and 
 in SIGGRAPH Asia 2020 Emerging Technologies<br/>
 [arXiv](https://arxiv.org/abs/2011.03845)
 [ACM Procedings](https://dl.acm.org/doi/10.1145/3415255.3422892)
+[Siggraph Asia 2020](https://sa2020.siggraph.org/en/attend/emerging-technologies/session_slot/15/6)
+
 
 ### BibTeX
 ```markdown
