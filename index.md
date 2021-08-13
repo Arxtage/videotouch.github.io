@@ -10,7 +10,7 @@ We present Video-Touch, a breakthrough technology for multi-user and real-time c
 
 
 <p align="center">
-<img width="1566" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129403308-b734b6d5-67f1-44d7-b2b8-53c7c7eee3ee.png">
+  <img width="1566" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129403308-b734b6d5-67f1-44d7-b2b8-53c7c7eee3ee.png">
 </p>
 
 ### System Overview
@@ -23,14 +23,14 @@ Our system looks as follows:
 3. The recognition module reads user movements and gestures with the help of [MediaPipe](https://mediapipe.dev/) and sends it to the next module via [ZeroMQ](https://zeromq.org/);
 4. The robotic arm and its gripper are being controlled from Python, given the motion capture data.
 <p align="center">
-<img width="500" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129403360-d7b8e241-338f-4eb4-8ead-b7d7162ef4d7.PNG">
+  <img width="500" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129403360-d7b8e241-338f-4eb4-8ead-b7d7162ef4d7.PNG">
 </p>
 
 ### Live Demos
 
 This project has had a great reception not only in  ​robotics but also in other areas such as life sciences, art, and medicine. So much so that it has been featured in various conferences, festivals, and television channels.
 
-**1. Siggraph Asia 2020**<br/>
+**1. SIGGRAPH Asia 2020**<br/>
 <br/>
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129399087-6a58ddb3-f346-44d2-9af7-50bf4dd123db.PNG)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
 <br/>
