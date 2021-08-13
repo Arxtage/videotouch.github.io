@@ -10,6 +10,18 @@ We present Video-Touch, a breakthrough technology for multi-user and real-time c
 
 [![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129399087-6a58ddb3-f346-44d2-9af7-50bf4dd123db.PNG)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
 
+### System Overview
+
+We were wondering if it is even possible to control a robot remotely using only your own hands - without any additional devices like gloves or a joystick - not suffering from a significant delay. We decided to use computer vision to recognize movements in real-time and instantly pass them to the robot. Thanks to MediaPipe now it is possible.
+
+Our system looks as follows:
+1. Video conference application gets a webcam video on the user device and sends it to the robot computer (“server”);
+2. User webcam video stream is being captured on the robot's computer display via OBS virtual camera tool;
+3. The recognition module reads user movements and gestures with the help of [MediaPipe](https://mediapipe.dev/) and sends it to the next module via [ZeroMQ](https://zeromq.org/);
+4. The robotic arm and its gripper are being controlled from Python, given the motion capture data.
+
+[![IMAGE_ALT](https://drive.google.com/file/d/1jF9ZxQBzWRWU1dUvkHBHnZyHkdxxHwXR/view)
+
 
 ### Authors
 - Ilya Zakharkin, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
