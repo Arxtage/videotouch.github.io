@@ -9,7 +9,7 @@
 We present Video-Touch, a breakthrough technology for multi-user and real-time control of robot by DNN-based gesture recognition. The users can have a video conferencing in a digital world and at the same time to perform dexterous manipulations with tangible objects by remote robot. As the scenario, we proposed the remote robotic COVID-19 test Laboratory to substitute medical assistant working in protective gear in close proximity with infected cells and to considerably reduce the time to receive the test results. The proposed technology suggests a new type of reality, where multi-users can jointly interact with remote object (e.g. make a new building design, joint cooking in robotic kitchen, etc), and discuss/modify the results at the same time.
 
 
-<img width="1566" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129399919-f0625946-4011-481f-b057-bed32d154743.png">
+<img src=https://user-images.githubusercontent.com/44577835/129402977-44a25618-a618-4b70-b9a1-37ffb05d919f.PNG>
 
 
 ### System Overview
