@@ -22,6 +22,10 @@ Our system looks as follows:
 
 <img width="1566" alt="gif1-3" src="https://user-images.githubusercontent.com/44577835/129399919-f0625946-4011-481f-b057-bed32d154743.png">
 
+### Live Demos
+##1. Russia 24
+[![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129400595-b11420fd-299f-40ae-a092-bba288d51e55.PNG)](https://www.youtube.com/watch?v=5p9MlKYu3RA&t=488s)
+
 
 ### Authors
 - Ilya Zakharkin, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
