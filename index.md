@@ -10,7 +10,7 @@ We present Video-Touch, a breakthrough technology for multi-user and real-time c
 
 
 <p align="center">
-  <img width="1566" alt="scheme" src="https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif1-3.png">
+  <img width="1566" alt="scheme" src="https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif1-3.png?raw=true">
 </p>
 
 ### System Overview
