@@ -1,0 +1,7 @@
+[submodule "mediapipe"]
+	path = mediapipe
+	url = https://github.com/izakharkin/mediapipe
+ 
+[submodule "jesture-sdk"]
+	path = jesture-sdk
+	url = https://github.com/jesture-ai/jesture-sdk
