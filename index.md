@@ -47,7 +47,7 @@ This project has had a great reception not only in  ​robotics but also in othe
 <br/>
 **4. PANGARDENIA ARS ELECTRONICA 2020** Festival for Art, Technology & Society Saint-Petersburg<br/>
 <br/>
-[![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129401928-bd267ca4-61bf-43da-9db4-197ed88dde9a.PNG)](https://youtu.be/i6dYyRQg-iM?t=4813)
+[![IMAGE_ALT](https://user-images.githubusercontent.com/31474005/129534618-6c9160f5-1510-47dc-8745-74237d4b8bc8.png)](https://youtu.be/i6dYyRQg-iM?t=4813)
 
 ### Authors
 - Ilya Zakharkin, Skolkovo Institute of Science and Technology, Moscow Institute of Physics and Technology (State University), Russia
