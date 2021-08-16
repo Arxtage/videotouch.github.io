@@ -32,7 +32,7 @@ This project has had a great reception not only in  ​robotics but also in othe
 
 **1. SIGGRAPH Asia 2020**<br/>
 <br/>
-[![IMAGE_ALT](https://user-images.githubusercontent.com/31474005/129532736-7c7530e9-e9e1-42f7-adfb-22ec0c7b885e.png)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
+[![IMAGE_ALT](https://user-images.githubusercontent.com/31474005/129532935-5f21db29-e4f4-4a3d-b34d-630a271d08f1.png)](https://www.youtube.com/watch?v=F4X4jJwDBy4)
 <br/>
 <br/>
 **2. Russia 24 TV Channel**<br/>
