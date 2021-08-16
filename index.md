@@ -37,7 +37,7 @@ This project has had a great reception not only in  ​robotics but also in othe
 <br/>
 **2. Russia 24 TV Channel**<br/>
 <br/>
-[![IMAGE_ALT](https://user-images.githubusercontent.com/44577835/129400595-b11420fd-299f-40ae-a092-bba288d51e55.PNG)](https://www.youtube.com/watch?v=5p9MlKYu3RA&t=488s)
+[![IMAGE_ALT](https://user-images.githubusercontent.com/31474005/129535009-f118bfa6-a66c-44b9-b260-c8cc5578001a.png)](https://www.youtube.com/watch?v=5p9MlKYu3RA&t=488s)
 <br/>
 <br/>
 **3. Russia 1 TV Channel**<br/>
