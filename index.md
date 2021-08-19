@@ -3,6 +3,8 @@
   <img src="https://github.com/Arxtage/videotouch.github.io/blob/gh-pages/media/gif0-2.gif?raw=true">
 </p>
 
+### NEW! [Check a blog post on Google Developers about our project!](https://developers.googleblog.com/2021/08/video-touch-multi-user-remote-robot-control-in-google-meet.html)
+
 ### Description
 **Video-Touch: Remote Robot Control by DNN-based Gesture Recognition**<br/>
 
