@@ -14,6 +14,8 @@
     </b></div>
 </div>
 
+### NEW! [Check a blog post on Google Developers about our project!](https://developers.googleblog.com/2021/08/video-touch-multi-user-remote-robot-control-in-google-meet.html)
+
 ## Getting started
 
 This code was tested on macOS Big Sur 11.4 with Intel Core i7 8/9-gen CPU. It should work for Linux as well if one builds the `libzmq.a` themself (see p. 3 of the next section).
