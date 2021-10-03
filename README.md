@@ -40,7 +40,7 @@ bazel build -c opt --define MEDIAPIPE_DISABLE_GPU=1 mediapipe/examples/desktop/h
 GLOG_logtostderr=1 bazel-bin/mediapipe/examples/desktop/hand_tracking/hand_tracking_cpu
 ```
 
-3. By default, the example sends hand tracking data via [ZeroMQ](https://zeromq.org) to a server. One may use [`zmq_server_demo.py`](https://github.com/izakharkin/mediapipe/blob/master/mediapipe/examples/desktop/hand_tracking/zmq_server_demo.py) to check the full pipeline:
+3. By default, the example sends hand tracking data via [ZeroMQ](https://zeromq.org) to a server. One may use [`zmq_server_demo.py`](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/examples/desktop/hand_tracking/zmq_server_demo.py) to check the full pipeline:
 
 ```
 python mediapipe/examples/desktop/hand_tracking/zmq_server_demo.py
@@ -54,23 +54,23 @@ We made 2 key modifications to the original version:
 
 <img src="docs/images/recognized_gestures.png" width=500>
 
-We added the [`hand_tracking_cpu_main`](https://github.com/izakharkin/mediapipe/blob/master/mediapipe/examples/desktop/hand_tracking/hand_tracking_cpu_main.cc) to make the system recognize hand gestures in real-time. To make this work, we employed hand gesture recognition calculators and made changes to the original `.pbtxt` graphs (see the latest commits).
+We added the [`hand_tracking_cpu_main`](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/examples/desktop/hand_tracking/hand_tracking_cpu_main.cc) to make the system recognize hand gestures in real-time. To make this work, we employed hand gesture recognition calculators and made changes to the original `.pbtxt` graphs (see the latest commits).
 
 Currently there are 2 versions of hand gesture calculcator:
 
-1. [`HandGestureCalculator`](https://github.com/izakharkin/mediapipe/blob/master/mediapipe/calculators/util/hand_gesture_calculator.cc): rule-based hand gesture recognition. Inspired by the code from the [TheJLifeX](https://gist.github.com/TheJLifeX) repo.
+1. [`HandGestureCalculator`](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/calculators/util/hand_gesture_calculator.cc): rule-based hand gesture recognition. Inspired by the code from the [TheJLifeX](https://gist.github.com/TheJLifeX) repo.
 
-2. [`HandGestureCalculatorNN`](https://github.com/izakharkin/mediapipe/blob/master/mediapipe/calculators/util/hand_gesture_calculator_nn.cc): neural network-based gesture recognition.
+2. [`HandGestureCalculatorNN`](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/calculators/util/hand_gesture_calculator_nn.cc): neural network-based gesture recognition.
 
-By default, `HandGestureCalculator` is used. Feel free to modify the [hand_landmark_cpu.pbtxt](https://github.com/izakharkin/mediapipe/blob/d22b4668fc8012c639ecc1cb0f7fcf80954ecd30/mediapipe/modules/hand_landmark/hand_landmark_cpu.pbtxt#L171) graph to change the gesture calculator.
+By default, `HandGestureCalculator` is used. Feel free to modify the [hand_landmark_cpu.pbtxt](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/modules/hand_landmark/hand_landmark_cpu.pbtxt#L171) graph to change the gesture calculator.
 
 We used [Jesture AI SDK](https://github.com/jesture-ai/jesture-sdk) (`python/annotation.py`) to collect the data for neural network training.
 
 ### ZeroMQ message passing
 
-[ZeroMQ](https://zeromq.org) is a tool for message passing between different processes. It allows to communicate between e.g. a binary file compiled from C++ and a python script. In our code, we use the [`hand_tracking_cpu_main`](https://github.com/izakharkin/mediapipe/blob/master/mediapipe/examples/desktop/hand_tracking/hand_tracking_cpu_main.cc) as a Requester and the [`zmq_server_demo.py`](https://github.com/izakharkin/mediapipe/blob/master/mediapipe/examples/desktop/hand_tracking/zmq_server_demo.py) as a Replier (see [REQ-REP strategy](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/client_server.html)).
+[ZeroMQ](https://zeromq.org) is a tool for message passing between different processes. It allows to communicate between e.g. a binary file compiled from C++ and a python script. In our code, we use the [`hand_tracking_cpu_main`](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/examples/desktop/hand_tracking/hand_tracking_cpu_main.cc) as a Requester and the [`zmq_server_demo.py`](https://github.com/Arxtage/videotouch.github.io/blob/main/mediapipe/examples/desktop/hand_tracking/zmq_server_demo.py) as a Replier (see [REQ-REP strategy](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/patterns/client_server.html)).
 
-To make all these things work we used the [cppzmq](https://github.com/zeromq/cppzmq) header files (see [`examples/desktop/hand_tracking`](https://github.com/izakharkin/mediapipe/tree/master/mediapipe/examples/desktop/hand_tracking) dir).
+To make all these things work we used the [cppzmq](https://github.com/zeromq/cppzmq) header files (see [`examples/desktop/hand_tracking`](https://github.com/Arxtage/videotouch.github.io/tree/main/mediapipe/examples/desktop/hand_tracking) dir).
 
 ## Citation
 
