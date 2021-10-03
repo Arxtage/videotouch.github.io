@@ -22,7 +22,7 @@ This code was tested on macOS Big Sur 11.4 with Intel Core i7 8/9-gen CPU. It sh
 
 ### Installation
 
-1. `git clone https://github.com/izakharkin/mediapipe`
+1. `git clone https://github.com/Arxtage/videotouch.github.io`
 2. Please follow the official [MediaPipe](https://github.com/google/mediapipe) installation instructions;
 3. To use ZeroMQ message passing mechanism, one need to build the [libzmq.a](https://github.com/zeromq/libzmq). Just follow the *Build instructions* section in [cppzmq repo](https://github.com/zeromq/cppzmq#build-instructions) (in the end of the main `README.md`).
 
