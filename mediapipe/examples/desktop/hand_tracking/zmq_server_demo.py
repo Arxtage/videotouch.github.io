@@ -10,7 +10,7 @@ socket.bind(ADDRESS)
 
 
 if __name__ == '__main__':
-    print(f'Waiting for the message on `{ADDRESS}`...')
+    print('Waiting for the message on `{}`...'.format(ADDRESS))
     
     message = ''
     state_dict = {'info': []}
@@ -54,7 +54,7 @@ if __name__ == '__main__':
         except ValueError:
             print("Right hand is probably out of the webcam stream")
         
-        new_message = f"Got {message}"
+        new_message = "Got {}".format(message)
         
         socket.send(new_message.encode())
     
