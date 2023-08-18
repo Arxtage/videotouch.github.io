@@ -1,4 +1,4 @@
-# MediaPipe: Video-Touch edition
+# MediaPipe: Video-Touch edition [Accepted to SIGGRAPH Asia 2020 Emerging Technologies]
 
 <div align="center">
     <div align="center">
